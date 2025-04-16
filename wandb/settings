@@ -1,0 +1,5 @@
+[default]
+entity = yeji99915-yonsei-university
+project = my_reface
+base_url = https://api.wandb.ai
+
