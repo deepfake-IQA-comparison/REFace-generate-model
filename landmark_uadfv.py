@@ -1,3 +1,5 @@
+# 데이터 세팅을 위한 코드
+
 import numpy as np
 import os
 from PIL import Image
